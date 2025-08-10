@@ -13,8 +13,3 @@ I used **Microsoft Excel Power Query** for data cleaning and transformation, and
 - Certain skincare products have high sales but low profit margins.
 - Seasonal spikes occur around holidays.
 - Specific regions show consistently higher purchase frequency.
-
-## Contact
-**Name:** Inemesit Imoh Wilson 
-**Email:** *(nessieimoh@gmail.com)*  
-**LinkedIn:** *(www.linkedin.com/in/inemesit-imoh-wilson-876260219)*
