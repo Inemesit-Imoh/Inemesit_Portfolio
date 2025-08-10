@@ -20,7 +20,7 @@ Each project folder contains:
 ---
 
 ### 2. [https://github.com/Inemesit-Imoh/Inemesit_Portfolio/tree/main/Heart-Disease-Data)
-**Objective:** Explore health data to identify patterns and factors associated with heart disease risk.  
+**Objective:** Explore heart disease research data to identify patterns and factors associated with heart disease risk.  
 **Key Skills:** Data preprocessing, exploratory data analysis, correlation studies.  
 **Tools:** Excel, Power BI.  
 
