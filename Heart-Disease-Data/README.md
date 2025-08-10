@@ -1,7 +1,7 @@
 # Heart Disease Research Data Analysis
 
 ## Project Overview
-In this project I analyzed a heart disease research medical to draw correlations, and possible predictors of heart disease.  
+In this project I analyzed a heart disease research to draw correlations, and possible predictors of heart disease.  
 The objective of the analysis was to explore patterns in patient health indicators and highlight factors most associated with increased risk.
 
 ## Files in this Folder
