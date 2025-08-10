@@ -1,7 +1,7 @@
 # Inemesit Imoh Wilson Portfolio
 
 Data Analyst versed in Microsoft Excel, PowerBI, and SQL. 
-Here, you'll find projects showcasing my skills in **data cleaning**, **analysis**, and **visualization** using tools like **Excel**, and **Power BI**
+Here, you'll find projects showcasing my skills in **data cleaning**, **analysis**, and **visualization** using tools like **Excel**, SQL and **Power BI**
 
 Each project folder contains:
 - **Raw Data** — Original dataset as obtained.
@@ -19,7 +19,7 @@ Each project folder contains:
 
 ---
 
-### 2. [Heart Disease Data Analysis](./Heart-Disease-Analysis)
+### 2. [https://github.com/Inemesit-Imoh/Inemesit_Portfolio/tree/main/Heart-Disease-Data)
 **Objective:** Explore health data to identify patterns and factors associated with heart disease risk.  
 **Key Skills:** Data preprocessing, exploratory data analysis, correlation studies.  
 **Tools:** Excel, Power BI.  
