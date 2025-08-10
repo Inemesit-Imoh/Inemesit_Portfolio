@@ -17,8 +17,3 @@ The objective of the analysis was to explore patterns in patient health indicato
 - Strong correlation between cholesterol levels, chest pain and heart disease occurrence.
 - Age group 54+ shows higher prevalence.
 - Male patients in the dataset showed slightly higher risk factors.
-
-## Contact
-**Name:** Inemesit Imoh Wilson
-**Email:** *(nessieimoh@gmail.com)*  
-**LinkedIn:** *(www.linkedin.com/in/inemesit-imoh-wilson-876260219)*
