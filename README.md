@@ -12,7 +12,7 @@ Each project folder contains:
 
 ## Projects
 
-### 1. [Target Skincare Sales Analysis](./Target-Skincare-Sales-Analysis)
+### 1. [https://github.com/Inemesit-Imoh/Inemesit_Portfolio/tree/main/Target-Skincare-Sales-Analysis)
 **Objective:** Analyze sales to uncover trends, and high-performing products.  
 **Key Skills:** Data cleaning, trend analysis, visualization.  
 **Tools:** Excel, Power BI.  
