@@ -27,9 +27,9 @@ Each project folder contains:
 ---
 
 ### 3. [https://github.com/Inemesit-Imoh/Inemesit_Portfolio/tree/main/Target-Digital-Marketing-Performance-Analysis)
-**Objective:**
-**Key Skills:** 
-**Tools:** 
+**Objective:** Analyze the impact on digital marketing on sales generation
+**Key Skills:** Dax Expression, data transformation, visualization, 
+**Tools:** Power Bi, Power Query, DAX
 
 ## 📬 Contact
 - **Name:** Inemesit Imoh Wilson  
