@@ -9,9 +9,9 @@ In this project, I analyzed Target digital marketing campaign performance across
 - **Visualization.png** → Graphs and Charts showing Top Marketing Channels, ROI, Ad Spend, Impressions, Conversion Rates, and Top-Bottom-performing products.
 
 ## Tools
-- ** Power BI, Power Query: Data cleaning and transformation
-DAX Expression: Calculate new measures, columns, and data aggregation
-Slicers: Dashboard interactivity 
+- **Power BI, Power Query:** Data cleaning and transformation
+- **DAX Expression:** Calculate new measures, columns, and data aggregation
+- **Slicers:** Dashboard interactivity 
 
 ## Key Insights
 - High Ad Spend and Revenue generation are not matched by equally high ROI, indicating potential inefficiencies in the campaign profitability.
